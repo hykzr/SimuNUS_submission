@@ -1,7 +1,7 @@
 ![SimuNUS](SimuNUS-Logo.png)
 # SimuNUS Submissions
 
-As orbital requires the GitHub repository to be private, we created this separate public repository to display the markdown files
+As orbital requires the GitHub repository to be private, we created this separate public repository to showcase our achievements in SimuNUS
 
 ### Milestone 1
 
